@@ -1,4 +1,4 @@
-# gSLICr: SLIC superpixels at over 250Hz
+# gSLICr: SLIC superpixels at over 250Hz(without new gpu limit)
 
 ![sample](sample.bmp)
 
